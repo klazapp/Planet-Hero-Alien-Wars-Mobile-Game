@@ -6,3 +6,5 @@
 
 [iOS App Store](https://apps.apple.com/us/app/planet-hero-alien-wars/id1494273692)
 
+
+![plot](./Screenshots/plot.png)
