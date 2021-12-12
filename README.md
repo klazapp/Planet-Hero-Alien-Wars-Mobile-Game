@@ -9,7 +9,7 @@
 
 
 
-[[./Screenshots/1242x2688bb-1.png | width=100px | alt=Bridge]]
+[[1242x2688bb-1.png | width=100px | alt=Bridge]]
 
 ![plot](./Screenshots/1242x2688bb-1.png) 
 
