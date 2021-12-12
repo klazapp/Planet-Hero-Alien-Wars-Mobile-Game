@@ -10,7 +10,7 @@
 
 
 
-![plot](./Screenshots/1242x2688bb-1.png  =250x250)
+![plot](./Screenshots/1242x2688bb-1.png) {:height="700px" width="400px"}
 
 ![plot](./Screenshots/1242x2688bb-2.png)
 
