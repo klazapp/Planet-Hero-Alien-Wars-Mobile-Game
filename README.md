@@ -8,12 +8,7 @@
 
 
 
-<img src="Screenshots/1242x2688bb-1.png" width=50% height=50%>
-
-![plot](./Screenshots/1242x2688bb-1.png) 
-
-![plot](./Screenshots/1242x2688bb-2.png)
-
-![plot](./Screenshots/1242x2688bb-3.png)
-
-![plot](./Screenshots/1242x2688bb.png)
+<img src="Screenshots/1242x2688bb-1.png" width=30% height=30%>
+<img src="Screenshots/1242x2688bb-2.png" width=30% height=30%>
+<img src="Screenshots/1242x2688bb-3.png" width=30% height=30%>
+<img src="Screenshots/1242x2688bb..png" width=30% height=30%>
