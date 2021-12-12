@@ -11,6 +11,9 @@
 
 
 ![plot](./Screenshots/1242x2688bb-1.png)
-![plot](./Screenshots/1242x2688bb-1.png)
-![plot](./Screenshots/1242x2688bb-1.png)
-![plot](./Screenshots/1242x2688bb-1.png)
+
+![plot](./Screenshots/1242x2688bb-2.png)
+
+![plot](./Screenshots/1242x2688bb-3.png)
+
+![plot](./Screenshots/1242x2688bb.png)
