@@ -8,8 +8,7 @@
 
 
 
-
-[[1242x2688bb-1.png | width=100px | alt=Bridge]]
+<img src="Screenshots/1242x2688bb-1.png" width=50% height=50%>
 
 ![plot](./Screenshots/1242x2688bb-1.png) 
 
