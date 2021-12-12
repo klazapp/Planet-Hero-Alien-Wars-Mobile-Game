@@ -1,5 +1,5 @@
 # PlanetHero: AlienWars
-2D Tap Fighting Game
+2D Tap Fighting Game made using Unity's DOTS technology
 
 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.klausology.planetheroAlienwars)
