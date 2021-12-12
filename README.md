@@ -7,7 +7,7 @@
 [iOS App Store](https://apps.apple.com/us/app/planet-hero-alien-wars/id1494273692)
 
 
-<p float="centre">
+<p float="left">
 
 <img src="Screenshots/1242x2688bb-1.png" width=30% height=30%>
 <img src="Screenshots/1242x2688bb-2.png" width=30% height=30%>
